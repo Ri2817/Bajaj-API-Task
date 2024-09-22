@@ -46,9 +46,9 @@ export default async (req, res) => {
 
       const response = {
         is_success: true,
-        user_id: "anish", 
-        email: "ap7064@srmist.edu.in",        
-        roll_number: "RA2111029010064",      
+        user_id: "Riya", 
+        email: "rr7455@srmist.edu.in",        
+        roll_number: "RA2111029010036",      
         numbers,
         alphabets,
         highest_lowercase_alphabet: highestLowerCaseAlphabet,
